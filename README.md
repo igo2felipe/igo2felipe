@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Ol%C3%A1!+Eu+sou+o+Igor+Felipe!👨‍💻🖐️)](https://git.io/typing-svg)
 
-##### Estudante de programação, apaixonado por tecnologia. Estou em busca de novas oportunidades que me permitem a eloborar e me aprovundar os meus conhecimento e criatividade na criação de soluções inovadores. Atuamente eu estou estudando JavaScript, Estou constantemente atualizando meus conhecimentos e buscando novos desfios na área da tecnologia.
+##### Estudante de programação, apaixonado por tecnologia. Estou em busca de novas oportunidades que me permitem a eloborar e me aprofundar os meus conhecimento e criatividade na criação de soluções inovadores. Atuamente eu estou estudando JavaScript, Estou constantemente atualizando meus conhecimentos e buscando novos desfios na área da tecnologia.
 <br>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
