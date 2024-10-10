@@ -1,63 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Ol%C3%A1!+Eu+sou+o+Igor+Felipe!👨‍💻🖐️)](https://git.io/typing-svg)
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-##### Estudante de programação, apaixonado por tecnologia. Estou em busca de novas oportunidades que me permitem a eloborar e me aprofundar os meus conhecimento e criatividade na criação de soluções inovadores. Atuamente eu estou estudando JavaScript, Estou constantemente atualizando meus conhecimentos e buscando novos desfios na área da tecnologia.
-<br>
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=igo2felipe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igo2felipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<br>
-
-## Front-end
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
- <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" />
-  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-<img align="center" alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-
-## Back-end
-
-   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" />
-<img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=lightblue" />
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=43853D" />
-
-
-
-
-</div><br/>
-</br>
-
-## Social/Contact
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorfeleonel/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorfeleonel-58b004243)
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Igor+Felipe;Sou+um+Desenvolvedor+Front+End;Eu+moro+em+Cascavel,+PR)](https://git.io/typing-svg)
+</divdir>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{igo2felipe}/count.svg" /></p> 
-<br></div>
 
+<div align="center">
 
+# Quem sou eu?
 
-#
-<br>
+</dividir>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igo2felipe/igo2felipe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igo2felipe/igo2felipe/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igo2felipe/igo2felipe/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="left"
+
+Olá, sou **Igor Felipe**, tenho 17 anos, sou um **Desenvolvedor Front-End**.
+
+Sou um Profissional Desenvolvedor Front-End proativo com experiência em projetos pessoais na área de desenvolvedor Front-End,utilizando as tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Next.js, Taiwlwind CSS, Docker e Prisma. Atualmente eu estou na área de Freelancer prestando serviços para micros empresas que estão precisando de um site eu estou sempre em busca de novas oportunidades que me permitem aplicar minhas habilidades e conhecimentos e melhorar as minhas técnicas quero contribuir em um ambiente profissional para obter o crescimento e o conhecimento da empresa;
+
+> Estou sempre buscando conhecimento para melhorar minhas habilidades técnicas e soft skills
+
+> Meu objetivo é trabalhar como Desenvolvedor Front-End e conseguir minha primeira oportunidade na área
+</div>
+
+# Profissional com experiência em:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,tailwind"/>
+
+### Back End:
+
+<img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,postgres,prisma"/>
+</div>
+
+### Ferramentas e plataformas:
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,vercel,git,github"/>
+</div>
+
+<div align="center">
+
+# Estatísticas do GitHub:
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=igo2felipe&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=fff&bg_color=ffffff00" alt="igo2felipe GitHub stats"/> 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igo2felipe&layout=compact&hide_border=true&title_color=58A6FF&text_color=fff&bg_color=ffffff00" alt="igo2felipe Most Used Languages " />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=igo2felipe&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&dates=fff&background=ffffff00&sideLabels=58A6FF&sideNums=fff&currStreakNum=fff&ring=58A6FF&fire=ff0000&currStreakLabel=1F6FEB" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igo2felipe&bg_color=000000&color=ADD8E6&line=ADD8E6&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=igo2felipe&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+</div>
+
+# Entre em contato:
+<a href="igorfeleonel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/igorfeleonel/"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
+
+## Contagem de visitantes:
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Figo2felipe&s=30&c=1f6feb&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
