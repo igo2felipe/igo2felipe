@@ -57,7 +57,7 @@ Sou um Profissional Desenvolvedor Front-End proativo com experiência em projeto
 </div>
 
 # Entre em contato:
-<a href="igorfeleonel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
+<a href="mailto:igorfeleonel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/igorfeleonel/"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
 
 ## Contagem de visitantes:
