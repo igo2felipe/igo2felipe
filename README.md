@@ -22,7 +22,7 @@ Sou um Desenvolvedor Front-End e tenho experiência na criação de aplicações
 
 </div>
 
-# Profissional com experiência em:
+# Front End:
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,tailwind"/>
 
 ### Back End:
