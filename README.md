@@ -16,9 +16,8 @@
 
 Olá, sou **Igor Felipe**, tenho 17 anos, sou um **Desenvolvedor Front-End**.
 
-Sou um Profissional Desenvolvedor Front-End proativo com experiência em projetos pessoais na área de desenvolvedor Front-End,utilizando as tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React.js, React Native, Next.js, Taiwlwind CSS, Docker e Prisma. Atualmente eu estou na área de Freelancer prestando serviços para micros empresas que estão precisando de um site eu estou sempre em busca de novas oportunidades que me permitem aplicar minhas habilidades e conhecimentos e melhorar as minhas técnicas quero contribuir em um ambiente profissional para obter o crescimento e o conhecimento da empresa.
+Sou um Desenvolvedor Front-End e tenho experiência na criação de aplicações no Front-End, tenho a honra de receber novas oportunidades de Desenvolvedor Front-End. Adoro aprender coisas novas, eu estou sempre buscando a procura de melhorar minhas habilidades. Atualmente eu estou me especializando cursando o curso técnico 2° ano de Exatas, buscando uma oportunidade de crescimento em uma empresa que valorize o desenvolvimento de seus colaboradores. Além das habilidades técnicas, destaco minha capacidade de resolução de problemas, trabalho em equipe, proatividade, criatividade e organização com o objetivo de garantir, confiabilidade de resultados e valores e possa a crescer junto com a empresa e fora.
 
-> Meu objetivo é trabalhar como Desenvolvedor Front-End e conseguir minha primeira oportunidade na área
 </div>
 
 # Profissional com experiência em:
