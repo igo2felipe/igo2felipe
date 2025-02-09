@@ -18,7 +18,7 @@
 
 Olá, sou **Igor Felipe**, tenho 17 anos, sou um **Desenvolvedor Front-End**.
 
-Sou um Desenvolvedor Front-End e tenho experiência na criação de aplicações no Front-End, tenho a honra de receber novas oportunidades de Desenvolvedor Front-End. Adoro aprender coisas novas, eu estou sempre buscando a procura de melhorar minhas habilidades. Atualmente eu estou me especializando cursando o curso técnico 2° ano de Exatas, buscando uma oportunidade de crescimento em uma empresa que valorize o desenvolvimento de seus colaboradores. Além das habilidades técnicas, destaco minha capacidade de resolução de problemas, trabalho em equipe, proatividade, criatividade e organização com o objetivo de garantir, confiabilidade de resultados e valores e possa a crescer junto com a empresa e fora.
+Sou um Desenvolvedor Front-End e tenho experiência na criação de aplicações no Front-End, tenho a honra de receber novas oportunidades de Desenvolvedor Front-End. Adoro aprender coisas novas, eu estou sempre buscando a procura de melhorar minhas habilidades. Atualmente eu estou me especializando cursando o curso técnico 3° ano de Exatas, buscando uma oportunidade de crescimento em uma empresa que valorize o desenvolvimento de seus colaboradores. Além das habilidades técnicas, destaco minha capacidade de resolução de problemas, trabalho em equipe, proatividade, criatividade e organização com o objetivo de garantir, confiabilidade de resultados e valores e possa a crescer junto com a empresa e fora.
 
 </div>
 
